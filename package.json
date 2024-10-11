@@ -1,8 +1,8 @@
 {
+  "homepage": "https://luckzman.github.io/portfolio",
   "name": "graded-assessment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Luckzman.github.io/portfolio",
   "dependencies": {
     "@chakra-ui/react": "^2.3.2",
     "@emotion/react": "^11.10.4",
