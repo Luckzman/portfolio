@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.df6a7eab.css",
-    "main.js": "/portfolio/static/js/main.148eac82.js",
-    "static/js/453.8927b4e4.chunk.js": "/portfolio/static/js/453.8927b4e4.chunk.js",
+    "main.js": "/portfolio/static/js/main.dd37ff01.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/portfolio-profile-img.png": "/portfolio/static/media/portfolio-profile-img.e9c55adb982b36873570.png",
     "static/media/reserve-screenshot.png": "/portfolio/static/media/reserve-screenshot.a18d17bc5649a260e717.png",
     "static/media/FoodTrove E-commerce .png": "/portfolio/static/media/FoodTrove E-commerce .cac49d04b0b748335b86.png",
     "static/media/diacare-screenshot.png": "/portfolio/static/media/diacare-screenshot.24982d9ce486bf4e9845.png",
-    "static/media/job-finder-mobile-app.jpeg": "/portfolio/static/media/job-finder-mobile-app.b65ce81d6781aaed2209.jpeg",
+    "static/media/job-finder-app.png": "/portfolio/static/media/job-finder-app.52110184b3df7bff4077.png",
     "index.html": "/portfolio/index.html",
     "main.df6a7eab.css.map": "/portfolio/static/css/main.df6a7eab.css.map",
-    "main.148eac82.js.map": "/portfolio/static/js/main.148eac82.js.map",
-    "453.8927b4e4.chunk.js.map": "/portfolio/static/js/453.8927b4e4.chunk.js.map"
+    "main.dd37ff01.js.map": "/portfolio/static/js/main.dd37ff01.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df6a7eab.css",
-    "static/js/main.148eac82.js"
+    "static/js/main.dd37ff01.js"
   ]
 }
