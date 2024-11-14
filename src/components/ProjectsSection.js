@@ -5,13 +5,12 @@ import Card from "./Card";
 
 const projects = [
   {
-    title: "Reserve a table Feature",
+    title: "Medicare Booking App",
     description:
-      "Table reservation feature of Little Lemon that allows customer to reserve a table at a resturant,",
-    getImageSrc: () => require('../images/reserve-screenshot.png'),
-    githubLink: 'https://github.com/Luckzman/reserve-it',
-    liveLink: 'https://little-lemon-reserve-it.netlify.app/',
-    demoLink: 'https://youtu.be/ZMJXbxpHHvg',
+      "An app that allows patients to book an appointment with a doctor",
+    getImageSrc: () => require('../images/medicare-screenshot.png'),
+    githubLink: 'https://github.com/Luckzman/appointment-booking',
+    liveLink: 'https://appointment-booking-coral.vercel.app/',
     stack: ''
   },
   {
@@ -25,12 +24,13 @@ const projects = [
     stack: ''
   },
   {
-    title: "FoodTrove Ecommerce App (In-Progress)",
+    title: "Reserve a table Feature",
     description:
-      "A One-stop shop for food lovers to order for their favourite meals",
-    getImageSrc: () => require('../images/FoodTrove E-commerce .png'),
-    githubLink: 'https://github.com/Luckzman/FoodTrove',
-    liveLink: 'https://foodtrove.netlify.app/',
+      "Table reservation feature of Little Lemon that allows customer to reserve a table at a resturant,",
+    getImageSrc: () => require('../images/reserve-screenshot.png'),
+    githubLink: 'https://github.com/Luckzman/reserve-it',
+    liveLink: 'https://little-lemon-reserve-it.netlify.app/',
+    demoLink: 'https://youtu.be/ZMJXbxpHHvg',
     stack: ''
   },
   {
